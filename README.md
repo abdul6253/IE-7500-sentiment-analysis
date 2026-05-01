@@ -15,6 +15,6 @@ This project focuses on sentiment analysis using:
 - src/ → source code
 
 ## Next Steps
-- Apply model to real dataset
-- Implement BERT model
-- Evaluate and compare results
+- Implement BERT model using Hugging Face
+- Compare performance with baseline model
+- Perform evaluation and error analysis
